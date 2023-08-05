@@ -8,7 +8,6 @@ packages = [{include = "lama2_chat"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-mage-ai = "^0.9.10"
 
 
 [build-system]
